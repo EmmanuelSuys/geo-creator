@@ -1,0 +1,24 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local development settings
+.env
+
+# Editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Mac-specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files
+*.o
+*.so
+
+# Compiled executables
+bin/
